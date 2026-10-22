@@ -34,3 +34,8 @@ Core Active Directory configuration and domain connectivity checks have been com
 
 This project is for learning and demonstration purposes. No passwords or credentials are included.
 
+## Active Directory – Organisational Units
+
+The following screenshot shows the organisational structure configured in the lab.
+
+![Active Directory organisational units](active-directory-ous.png)
