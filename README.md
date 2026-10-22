@@ -38,4 +38,4 @@ This project is for learning and demonstration purposes. No passwords or credent
 
 The following screenshot shows the organisational structure configured in the lab.
 
-![Active Directory organisational units](active-directory-ous.png)
+![Active Directory organisational units](active-directory-ous.png.)
