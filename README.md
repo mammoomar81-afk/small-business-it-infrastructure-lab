@@ -39,3 +39,9 @@ This project is for learning and demonstration purposes. No passwords or credent
 The following screenshot shows the organisational structure configured in the lab.
 
 ![Active Directory organisational units](active-directory-ous.png.)
+
+## Active Directory – Users and Security Groups
+
+The screenshot below shows the test user and security group configured in the IT organisational unit.
+
+![Active Directory users and groups](active-directory-users-groups.png)
