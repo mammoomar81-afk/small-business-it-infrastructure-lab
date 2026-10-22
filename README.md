@@ -50,4 +50,10 @@ The screenshot below shows the test user and security group configured in the IT
 
 The `\\DC01\Firma` network share contains separate folders for IT and Accounting. Access was tested successfully on the Windows Server.
 
+## File Share Permissions Test
+
+- Logged in to CLIENT01 as `FIRMA\it.test`.
+- Successfully created a test file in `\\DC01\Firma\IT`.
+- Access to `\\DC01\Firma\Buchhaltung` was denied as expected.
+- Verified role-based access restrictions for the IT user.
 ![File share – IT and Accounting](file-share-it-accounting.png)
