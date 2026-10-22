@@ -45,3 +45,9 @@ The following screenshot shows the organisational structure configured in the la
 The screenshot below shows the test user and security group configured in the IT organisational unit.
 
 ![Active Directory users and groups](active-directory-users-groups.png)
+
+## File Server – Shared Folders
+
+The `\\DC01\Firma` network share contains separate folders for IT and Accounting. Access was tested successfully on the Windows Server.
+
+![File share – IT and Accounting](file-share-it-accounting.png)
