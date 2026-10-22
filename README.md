@@ -52,8 +52,19 @@ The `\\DC01\Firma` network share contains separate folders for IT and Accounting
 
 ## File Share Permissions Test
 
-- Logged in to CLIENT01 as `FIRMA\it.test`.
+- Logged in to `CLIENT01` as `FIRMA\it.test`.
 - Successfully created a test file in `\\DC01\Firma\IT`.
 - Access to `\\DC01\Firma\Buchhaltung` was denied as expected.
 - Verified role-based access restrictions for the IT user.
+
+### IT folder access allowed
+
+![IT folder access allowed](erstellten%20Datei%20im%20Ordner%20IT.png)
+
+### Accounting folder access denied
+
+![Accounting folder access denied](Fehlermeldung%20beim%20Zugriff%20auf%20Buchhaltung.png)
+
+### File Share – IT and Accounting
+
 ![File share – IT and Accounting](file-share-it-accounting.png)
